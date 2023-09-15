@@ -8,10 +8,10 @@ To install tmx you will need to have git installed. And to use it you will need 
 ## Installation
 Download the installation script and pipe it to bash or whatever your shell is
 ```sh
-    curl -sSl https://sfs.thewisepigeon.tech/tmx | sh
+sudo curl -sSl https://sfs.thewisepigeon.tech/tmx | sh
 ```
 
-You can read what that script does by looking in the `install.sh` file in this repo
+You can read what that script does by looking in the `install.sh` file in this repo.
 
 ## Usage
 As I said tmx just maps some nicer commands to some of tmux's ones. 

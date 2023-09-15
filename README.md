@@ -1,3 +1,5 @@
+![Demo](./demo.gif)
+
 # TMX
 tmx is just a bash script I wrote to make my tmux usage easier. It just "abstract" some
 of tmux's commands into shorter more intuitive ones.
